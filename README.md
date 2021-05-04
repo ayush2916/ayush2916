@@ -1,9 +1,14 @@
 # Hey, I'm Ayush 👋🏼 👨‍💻
 <img src="Asset 1-100.jpg" alt="banner that says Ayush description" align="right" width="100%" height="400">
-I'm a Computer Science engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML , CSS , Javascript and Old School C++ . <br />  My interest in the Front End Web Development led me to launch a Free Covid 19 Website <a href="https://practical-mccarthy-f0d71b.netlify.app">CoviTracker</a>, a platform where you can easily scroll with a mouse or keypad to get all the basic Information about Covid 19. , Avail some Basic Services and Track down the number of covid cases with a Live Tracker.<br />
-## Find me around the web 🌎: <br /><br>
+<br>I'm a Computer Science engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML , CSS , Javascript and Old School C++ . <br />  My interest in the Front End Web Development led me to launch a Free Covid 19 Website <a href="https://practical-mccarthy-f0d71b.netlify.app">CoviTracker</a>, a platform where you can easily scroll with a mouse or keypad to get all the basic Information about Covid 19. , Avail some Basic Services and Track down the number of covid cases with a Live Tracker.<br /><br>
+**Find me around the web 🌎: **
+ <br /><br>
 - Socializing in public on <a href="https://www.instagram.com/ayush2916/">Instagram</a> or <a href="https://www.facebook.com/ayush2916/">Facebook</a> 📹 ✍🏾<br />
 - Sharing updates on <a href="https://www.linkedin.com/in/ayush-sharma-49533a153/">LinkedIn</a> 💼<br />
+
+
+![Ayush's github stats](https://github-readme-stats.ayush2916.vercel.app/api?username=ayush2916&show_icons=true&hide_border=true&theme=radical")
+
 <!--
 **ayush2916/ayush2916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
