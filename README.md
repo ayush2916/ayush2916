@@ -1,5 +1,5 @@
-### Hey, I'm Ayush 👋🏼 👨‍💻<br>
-<img src="Asset 1-100.jpg" alt="banner that says Ayush description" align="right" width="100%" height="400"><br>
+### Hey, I'm Ayush 👋🏼 👨‍💻
+<img src="Asset 1-100.jpg" alt="banner that says Ayush description" align="right" width="100%" height="400">
 I'm a Computer Science engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML , CSS , Javascript and Old School C++ . <br />  My interest in the Front End Web Development led me to launch a Free Covid 19 Website <a href="https://practical-mccarthy-f0d71b.netlify.app">CoviTracker</a>, a platform where you can easily scroll with a mouse or keypad to get all the basic Information about Covid 19. , Avail some Basic Services and Track down the number of covid cases with a Live Tracker.<br />
 ### Find me around the web 🌎: <br /><br>
 - Socializing in public on <a href="https://www.instagram.com/ayush2916/">Instagram</a> or <a href="https://www.facebook.com/ayush2916/">Facebook</a> 📹 ✍🏾<br />
